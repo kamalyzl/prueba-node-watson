@@ -13,3 +13,7 @@
 
 - new
 - ![fondoPNG1](/backgroundN.svg)
+### STORE
+
+![app-store](/app-store.png)
+![google-play](/google-play.png)
